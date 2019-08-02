@@ -1,16 +1,15 @@
-# yaz_kampi
+## 2019 | 2. Bilim ve Tenoloji Yaz Kampı<br> [yazkampi.medipol.edu.tr](https://github.com/pandao/editor.md "Heading link")
 
-A new Flutter project.
+- İstanbul Medipol Üniversitesi tarafından organize etmiş olduğumuz 2. Bilim ve Teknoloji Yaz Kampında öğrencilere Algoritma Tasarımı, Programcılığa Giriş, Yapay Zekaya Giriş ve Flutter ile Mobil Uygulamaya Giriş eğitimi verilmiştir.
 
-## Getting Started
+##Verilen Program
+-Flutter Hakkında
+-Dart Hakkında
+-Widget(ListView, Container, Column, Row, Stack, Padding, Center v.b)
+-Firabase Hakkında
+-IOS ve Android Hakkında
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###Proje Görseli
+|  Home | Drawer Menü  |   Alert Dialog |
+| ------------ | ------------ | ------------ |
+|  ![](http://bit.ly/yazkampi5) |![](http://bit.ly/yazkampigorsel4)   |  ![](http://bit.ly/yazkampigorsel2) |
