@@ -1,4 +1,4 @@
-## 2019 | 2. Bilim ve Tenoloji Yaz Kampı<br> [yazkampi.medipol.edu.tr](https://github.com/pandao/editor.md "Heading link")
+## 2019 | 2. Bilim ve Tenoloji Yaz Kampı<br> [yazkampi.medipol.edu.tr](https://yazkampi.medipol.edu.tr "Heading link")
 
 - İstanbul Medipol Üniversitesi tarafından organize etmiş olduğumuz 2. Bilim ve Teknoloji Yaz Kampında öğrencilere Algoritma Tasarımı, Programcılığa Giriş, Yapay Zekaya Giriş ve Flutter ile Mobil Uygulamaya Giriş eğitimi verilmiştir.
 
